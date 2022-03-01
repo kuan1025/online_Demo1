@@ -1,0 +1,58 @@
+* {
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			#brall {
+				width: 950px;
+				height: 500px;
+				/*border: 1px solid red;*/
+				background-color: #ECECEC;
+			}
+			
+			#brall #nav {
+				margin-top: 20px;
+				width: 800px;
+				height: 50px;
+				line-height: 50px;
+				border: 1px solid #ECECEC;
+				margin: 0px auto;
+				margin-left: 35px;
+			}
+			
+			#brall #nav p {
+				height: 17px;
+				line-height: 17px;
+				margin-top: 20px;
+				color: purple;
+				font-size: 19px;
+			}
+			
+			#brall #table {
+				width: 950px;
+				height: 500px;
+				margin-left: 35px;
+				background-color: white;
+				border: 1px solid #ECECEC;
+				margin: 0px auto;
+			}
+			
+			#brall #table #btn1 {
+				background-color: salmon;
+				width: 150px;
+				height: 48px;
+				margin-top: 15px;
+				margin-left: 25px;
+				font-size: 18px;
+			}
+			
+			#brall #table .table {
+				width: 800px;
+				margin-top: 15px;
+				margin-left: 25px;
+			}
+			
+			#brall #table #eng {
+				width: 80px;
+				height: 110px;
+			}
