@@ -101,7 +101,7 @@
                     <td class="one">總數量</td>
                     <td><input type="number" name="pNumber" class="two"></td>
                 </tr>
-                <!--錯誤提示-->
+
                 <tr class="three">
                     <td class="four"></td>
                     <td><span id="numerr"></span></td>
@@ -119,7 +119,7 @@
                         </select>
                     </td>
                 </tr>
-                <!--錯誤提示-->
+
                 <tr class="three">
                     <td class="four"></td>
                     <td><span></span></td>

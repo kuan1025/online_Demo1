@@ -68,7 +68,7 @@
                     <td class="one">商品名稱</td>
                     <td><input type="text" name="pName" class="two" value="${prod.pName}"></td>
                 </tr>
-                <!--錯誤提示-->
+        >
                 <tr class="three">
                     <td class="four"></td>
                     <td><span id="pnameerr"></span></td>
@@ -77,7 +77,7 @@
                     <td class="one">商品介紹</td>
                     <td><input type="text" name="pContent" class="two" value="${prod.pContent}"></td>
                 </tr>
-                <!--错误提示-->
+
                 <tr class="three">
                     <td class="four"></td>
                     <td><span id="pcontenterr"></span></td>
@@ -86,7 +86,7 @@
                     <td class="one">價格</td>
                     <td><input type="number" name="pPrice" class="two" value="${prod.pPrice}"></td>
                 </tr>
-                <!--错误提示-->
+
                 <tr class="three">
                     <td class="four"></td>
                     <td><span id="priceerr"></span></td>
